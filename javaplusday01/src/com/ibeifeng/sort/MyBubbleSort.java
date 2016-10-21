@@ -7,7 +7,7 @@ public class MyBubbleSort {
 		int[] arr = { 24, 12, 6, 23, 17, 99, 67, 54, 34, 57 };
 		// 冒泡排序法
 		// 控制比较次数
-
+		int a =11;
 		MyBubbleSort bubbleSort = new MyBubbleSort();
 		System.out.println("----------------使用中间值进行交换-------------------");
 		bubbleSort.sort1(arr);
